@@ -21,6 +21,10 @@ h1 {
     left: 50%;
 }
 
+span {
+    color :#EF4836;
+}
+
 .loader {
     position: absolute;
     top: 50%;
